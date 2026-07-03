@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://brive-la-gaillarde.developpementapps.org/sitemap.xml
